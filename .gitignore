@@ -30,3 +30,6 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+*.swp
+cmd/example/file2largeobj/file2largeobj
+cmd/example/file2largeobj/sample.d/heavy.dat
